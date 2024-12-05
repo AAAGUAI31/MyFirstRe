@@ -1,2 +1,2 @@
 # MyFirstRe
-This is my first time to creat a new repository on github
+This is my first time to create a new repository on github
